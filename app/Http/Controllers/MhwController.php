@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 
+
 use   Illuminate\Routing\Controller as Controller;
 use Illuminate\Http\Request;
 use App\Models\paper_stars;
@@ -47,6 +48,5 @@ class MhwController extends Controller//发表论文
         }
     }
 }
-
 
 
